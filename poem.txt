@@ -1,4 +1,4 @@
-groceries and toletries
+groceries and toletries and cleaning
 
 ten fish fingers
 twelve cupcakes
@@ -8,6 +8,7 @@ seven slices of ham
 six large eggs
 three bannanas 
 five cold sausages
+bottle of handwash
 four chunks of cheese
 three bottles of milk
 pack of redbull
